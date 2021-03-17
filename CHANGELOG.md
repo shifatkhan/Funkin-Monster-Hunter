@@ -10,6 +10,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - That one random note on Bopeebo
 
+## [0.2.7.2] - 2021-03-17
+### Changed
+
+- Keyboard bindings to DFJK
+
 ## [0.2.7.1] - 2021-02-14
 ### Added
 - Easter eggs
