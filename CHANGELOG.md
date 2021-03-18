@@ -14,6 +14,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Keyboard bindings to DFJK
+### Fixed
+- Fixed crashes when opening Freeplay mode. Thanks to Jan200101's PR [#412](https://github.com/ninjamuffin99/Funkin/pull/412)
 
 ## [0.2.7.1] - 2021-02-14
 ### Added
